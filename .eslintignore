@@ -1,0 +1,6 @@
+# ignore lint for:
+node_modules
+coverage
+
+# ignore lint for build output
+dist
